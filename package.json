@@ -1,0 +1,22 @@
+{
+  "name": "fetch-service",
+  "version": "1.0.0",
+  "description": "Node.js abstraction for an HTTP agent with connection pool to a particular API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/styladev/fetch-service.git"
+  },
+  "author": "Maciej Hirsz <maciej.hirsz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/styladev/fetch-service/issues"
+  },
+  "homepage": "https://github.com/styladev/fetch-service#readme",
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  }
+}
